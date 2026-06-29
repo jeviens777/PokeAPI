@@ -39,8 +39,9 @@ Aplikasi penjelajah data Pokémon berbasis Android/iOS yang dibangun menggunakan
 ---
 
 ## 📸 Dokumentasi & Screenshot (Expo Go)
-
-
+WhatsApp Image 2026-06-29 at 18.15.16 (1).jpeg
+WhatsApp Image 2026-06-29 at 18.15.16 (2).jpeg
+WhatsApp Image 2026-06-29 at 18.15.16.jpeg
 
 ## 🚀 Cara Menjalankan Project (Setup Instructions)
 
